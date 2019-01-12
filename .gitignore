@@ -1,2 +1,5 @@
 __pycache__/
 config.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
